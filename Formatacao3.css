@@ -1,0 +1,11 @@
+body{ background:#F0FFF0; background-image: url('img/ImgConst.jpeg');background-repeat: no-repeat; background-attachment: fixed; background-position: center; }
+
+.borda1{ border-color:#000000; size:"2"; width:100%; }
+.borda2{size:"3";width:100%;}
+.borda1{ border-color:rgb(255, 255, 255);; size:"2"; width:100%; }
+#titulo{ font-family:"Tahoma";color:rgb(154, 205, 50)  ;text-align:center; }
+#frase{font-family: "Arial"; text-align: center; color:rgb(255, 255, 255); font-size:55px}
+#autor{font-family: "Arial"; text-align: center; color:rgb(255, 255, 255); font-size:55px; font-style: italic;}
+#menu{ text-align: center; padding: 18px; color: #FFFF99}
+
+.centralizar{ text-align:center; color:rgb(255, 255, 255)  }

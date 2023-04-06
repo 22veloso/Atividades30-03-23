@@ -1,0 +1,14 @@
+body {background-color: hsla(89, 43%, 51%, 0.3);}
+.dinheiro{ color:#19a33d ;}
+
+#menu{ text-align: center; padding: 18px; color: #FFFF99;  background:#2bc4e0; font-family:"Courier";font-size: 25px; color:#e6f5eb}
+
+#topo{ background: #57998a; text-align: center; font-family: "Courier";font-size: 45px;  color:#ffffcc}
+
+table{ border: 2px solid  #336600;width:100%; }
+
+.forma2{text-align: center; font-family:"Courier"; font-size: 40px; color:#57998a; background:#ffffcc;}
+
+.centralizar{text-align:center;}
+
+

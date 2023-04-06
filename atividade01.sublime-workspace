@@ -1,0 +1,312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h5"
+			],
+			[
+				"s",
+				"strong"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"pi",
+				"palevioletred"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"pin",
+				"deeppink"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"e",
+				"em"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"y",
+				"yellowgreen"
+			],
+			[
+				"r",
+				"crimson"
+			],
+			[
+				"c",
+				"currentColor"
+			],
+			[
+				"o",
+				"olive"
+			],
+			[
+				"op",
+				"option"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Lucas Veloso/Downloads/Atividades30-03-23-20230401T155633Z-001.zip",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/Site Laura Cleide/contatos.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/Site Laura Cleide/formatacao.css",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/Site Laura Cleide/campanha.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/Site Laura Cleide/biografia.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/Site Ana Bela/formatacao.css",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/Cor&ImagemFundo.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/Site Ana Bela/index.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/estilos.css",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/Img/foto.jpg",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/Classes-Id.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/estilo_texto.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/Tamanho_textos.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/Fontes-cores.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/border.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/div-span.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoHtml/projeto1/index.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoHtml/Tabelas.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/inline_style.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/ProjetoCSS3/Img/ti.jpg",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/projeto1/index.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/projeto1/Contato.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/projeto1/QuemSomos.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/projeto1/Imagens/Logo.png",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/projeto1/Imagens/APP.jpg",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/projeto1/Imagens/F CO NO F CO (2).png",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/Formulario.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/Tabelas.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/Part2Tabela.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/contato.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/index.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/Projeto.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/exemplo1.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/WEB 2.0/exemplosImagens.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/Proj_Aula/index.html",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/Proj_Aula/estilos/estilo.css",
+		"/C/Users/Lucas Veloso/OneDrive/Área de Trabalho/Projeto Web/index.html",
+		"/D/Instaladores/Resident Evil HD Remaster ElAmigos/Resident Evil HD Remaster.iso",
+		"/C/Users/Lucas Veloso/Desktop/primeiro projeto/projeto.html",
+		"/C/Users/Lucas Veloso/Desktop/projeto aula/index.html",
+		"/C/Users/Lucas Veloso/Desktop/projeto aula/CSS/estilo.css",
+		"/C/Users/Lucas Veloso/Desktop/Projeto Web/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "atividade01.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
